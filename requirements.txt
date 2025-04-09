@@ -1,0 +1,7 @@
+xarray
+numpy
+geopandas
+pyarrow
+pandas
+dask
+netCDF4
